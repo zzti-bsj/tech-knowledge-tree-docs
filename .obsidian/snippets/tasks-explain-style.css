@@ -1,0 +1,4 @@
+.plugin-tasks-query-explanation {
+    color: var(--color-blue);
+}
+.plugin-tasks-toolbar { display: none; } /* alswl patch */

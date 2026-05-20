@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6a8ab6e5d9a6760c",
+        "id": "f1392c39c8e2817c",
         "type": "tabs",
         "children": [
           {
-            "id": "20113b6f0a6569a8",
+            "id": "ac5c5abcbf436828",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web-security/authentication/jwt/mastery/pyjwt-fastapi.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "pyjwt-fastapi"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.50247192382812
   },
   "right": {
     "id": "4ff84f01f94ffeb9",
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web-security/authentication/jwt/mastery/pyjwt-fastapi.md",
+                "file": "INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "pyjwt-fastapi 的反向链接列表"
+              "title": "INDEX 的反向链接列表"
             }
           },
           {
@@ -156,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web-security/authentication/jwt/mastery/pyjwt-fastapi.md",
+                "file": "INDEX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pyjwt-fastapi 的大纲"
+              "title": "INDEX 的大纲"
             }
           }
         ],
@@ -180,25 +176,49 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "20113b6f0a6569a8",
+  "active": "83a685c156351927",
   "lastOpenFiles": [
-    "web-security/authentication/jwt/deepen/jwt-vs-oauth.md",
-    "web-security/authentication/why-bearer.md",
     "未命名.base",
-    "web-security/authentication/jwt/mastery/pyjwt-fastapi.md",
-    "web-security/authentication/jwt/mastery/auth0.md",
-    "web-security/authentication/jwt/deepen/stateless-myth.md",
-    "web-security/authentication/jwt/deepen/why-bearer.md",
-    "web-security/authentication/jwt/deepen",
-    "web-security/authentication/jwt/why-bearer.md",
-    "web-security/authentication/jwt/jwt-vs-oauth.md",
-    "web-security/authentication/jwt/dual-token【RLSys】.md",
-    "web-security/authentication/jwt/stateless-myth.md",
+    "未命名 2.base",
+    "未命名 1.base",
+    "INDEX.md",
+    "questions.csv",
+    "questions.csv.zip",
+    "web-security/authentication/why-bearer.md",
+    "web-security/authentication/jwt/快速投产/pyjwt-fastapi.md",
+    "web-security/authentication/jwt/快速投产/auth0.md",
+    "web-security/authentication/jwt/快速投产",
+    "web-security/authentication/jwt/深化/stateless-myth.md",
+    "web-security/authentication/jwt/深化/jwt-vs-oauth.md",
+    "web-security/authentication/jwt/深化",
+    "ai-llm/llm-application/conversation-flow/快速投产/openai-python-fastapi.md",
+    "ai-llm/llm-application/conversation-flow/快速投产/langchain-python.md",
+    "ai-llm/llm-application/conversation-flow/快速投产",
+    "ai-llm/llm-application/conversation-flow/深化/streaming-error-handling.md",
+    "ai-llm/llm-application/conversation-flow/深化/sse-vs-websocket.md",
+    "ai-llm/llm-application/conversation-flow/深化/production-history-storage.md",
+    "ai-llm/llm-application/conversation-flow/深化/context-truncation-strategies.md",
+    "ai-llm/llm-application/conversation-flow/深化/agent-frameworks-vs-raw-conversation.md",
+    "ai-llm/llm-application/conversation-flow/深化",
+    "ai-llm/llm-application/conversation-flow/deepen/production-history-storage.md",
+    "web-security/authentication/jwt/deepen/jwt-vs-oauth.md",
+    "ai-llm/llm-application/conversation-flow/deepen/agent-frameworks-vs-raw-conversation.md",
     "web-security/authentication/jwt/README.md",
-    "web-security/authentication/jwt/mastery",
-    "web-security/authentication/jwt/quick-mastery.md"
+    "web-security/authentication/jwt/dual-token【RLSys】.md",
+    "web-security/authentication/jwt/mastery/auth0.md",
+    "web-security/authentication/jwt/deepen/why-bearer.md",
+    "web-security/authentication/jwt/mastery/pyjwt-fastapi.md",
+    "web-security/authentication/jwt/deepen/stateless-myth.md",
+    "ai-llm/llm-application/conversation-flow/deepen/streaming-error-handling.md",
+    "ai-llm/llm-application/conversation-flow/deepen/sse-vs-websocket.md",
+    "ai-llm/llm-application/conversation-flow/deepen/context-truncation-strategies.md",
+    "ai-llm/llm-application/conversation-flow/deepen",
+    "ai-llm/llm-application/conversation-flow/mastery"
   ]
 }

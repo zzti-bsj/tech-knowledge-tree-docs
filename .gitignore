@@ -6,8 +6,6 @@
 .Spotlight-V100
 .Trashes
 
-# Obsidian
-.obsidian
 
 # Python
 __pycache__/

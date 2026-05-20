@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "INDEX 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -152,17 +151,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INDEX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "INDEX 的大纲"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "72320b7b93858070",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "7538c888db013372",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -182,12 +200,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "83a685c156351927",
+  "active": "72320b7b93858070",
   "lastOpenFiles": [
+    "INDEX.md",
     "未命名.base",
     "未命名 2.base",
     "未命名 1.base",
-    "INDEX.md",
     "questions.csv",
     "questions.csv.zip",
     "web-security/authentication/why-bearer.md",
@@ -218,7 +236,6 @@
     "ai-llm/llm-application/conversation-flow/deepen/streaming-error-handling.md",
     "ai-llm/llm-application/conversation-flow/deepen/sse-vs-websocket.md",
     "ai-llm/llm-application/conversation-flow/deepen/context-truncation-strategies.md",
-    "ai-llm/llm-application/conversation-flow/deepen",
-    "ai-llm/llm-application/conversation-flow/mastery"
+    "ai-llm/llm-application/conversation-flow/deepen"
   ]
 }
